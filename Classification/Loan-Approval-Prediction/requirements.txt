@@ -1,0 +1,6 @@
+streamlit>=1.31.0
+numpy>=1.26.4
+pandas
+scikit-learn
+joblib
+
